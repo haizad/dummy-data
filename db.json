@@ -2,7 +2,11 @@
   "posts": [
     {
       "id": 1,
-      "title": "nama"
+      "name": "Muhammad Abu Kassim"
+    },
+    {
+      "id": 2,
+      "name": "Abu Khamis"
     }
   ],
   "profile": {
